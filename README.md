@@ -1,4 +1,4 @@
-##Android Todo List App
+# Android Todo List App
 A simple Android To-do List App
 
 ## Screenshots
