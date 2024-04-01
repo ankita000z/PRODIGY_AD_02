@@ -1,5 +1,4 @@
-# ImportantTodos
-
+##Android Todo List App
 A simple Android To-do List App
 
 ## Screenshots
